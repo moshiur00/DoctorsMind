@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Project Specific Files
+.env
+venv
+Data
+
+
 # C extensions
 *.so
 
